@@ -1,0 +1,12 @@
+[project]
+name = "statistical-rethinking-with-numpyro"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "arviz>=0.23.4",
+    "causalgraphicalmodels>=0.0.4",
+    "daft>=0.7.3",
+    "numpyro>=0.20.0",
+]
